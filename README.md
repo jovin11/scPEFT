@@ -3,10 +3,9 @@
 This is the official repository for **Harnessing the Power of Single Cell Large Language Models with Parameter Efficient
 Fine-Tuning using scPEFT**. To reproduce the results from the paper, please visit [scPEFT_reproduction](https://github.com/coffee19850519/scPEFT_reproduction).
 
+**:mega: 12/31/2025 UPDATE** scPEFT is published in *`Nature Machine Intelligence`*
+
 **:exclamation: 9/25/2025 UPDATE** We have released the reproduction for benchmarking the linear model on perturbation prediction. Please see [here](https://github.com/coffee19850519/scPEFT_reproduction/blob/main/README.md#exclamation-9252025-update-perturbation-prediction-with-the-linear-model) for more details.
-
-**:fire:UPDATE**: We have released several new reproductions for the revised manuscript. Please see [scPEFT_reproduction](https://github.com/coffee19850519/scPEFT_reproduction) for more details.
-
 
 [![Preprint](https://img.shields.io/badge/preprint-available-brightgreen)](https://www.biorxiv.org/content/10.1101/2024.01.27.577455v1)
 &nbsp;
@@ -90,14 +89,14 @@ We sincerely thank the authors of following open-source projects:
 ## Citing scPEFT
 
 ```bibtex
-@article {He2025.04.21.649754,
-	author = {He, Fei and Fei, Ruixin and Krull, Jordan E. and Zhang, Xinyu and Gao, Mingyue and Su, Li and Chen, Yibo and Yu, Yang and Li, Jinpu and Jin, Baichuan and Chang, Yuzhou and Ma, Anjun and Ma, Qin and Xu, Dong},
+@article {
+	author = {Fei He, Ruixin Fei, Jordan E. Krull, Yang Yu, Xinyu Zhang, Xianyu Wang, Hao Cheng, Mingyue Gao, Li Su, Yibo Chen, Jinpu Li, Baichuan Jin, Yuzhou Chang, Anjun Ma, Qin Ma & Dong Xu},
 	title = {Harnessing the Power of Single-Cell Large Language Models with Parameter Efficient Fine-Tuning using scPEFT},
 	year = {2025},
-	doi = {10.1101/2025.04.21.649754},
-	publisher = {Cold Spring Harbor Laboratory},
-	URL = {https://www.biorxiv.org/content/early/2025/04/23/2025.04.21.649754},
-	journal = {bioRxiv}
+	doi = {https://doi.org/10.1038/s42256-025-01170-z},
+	publisher = {Springer Nature},
+	URL = {https://www.nature.com/articles/s42256-025-01170-z},
+	journal = {Nature Machine Intelligence}
 }
 
 ```
